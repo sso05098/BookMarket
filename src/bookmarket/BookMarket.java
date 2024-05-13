@@ -19,7 +19,7 @@ public class BookMarket {
 		BookMarketController controller = new BookMarketController(bookStorage, cart, view);
 		controller.start();
 		
-		System.out.println("과연");
+		
 	}
 
 }
